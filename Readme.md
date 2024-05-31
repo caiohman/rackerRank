@@ -1,4 +1,4 @@
-### HACKERHANK 
+### HACKER RANK 
 
 ## Solved Problems:
 
