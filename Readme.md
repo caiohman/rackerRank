@@ -13,3 +13,5 @@
 5. Java Output Formatting
 
 6. Java Loops 2
+
+7. Java DataTypes 
