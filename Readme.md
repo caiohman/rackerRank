@@ -17,3 +17,5 @@
 7. Java DataTypes 
 
 8. Java End-Of-File
+
+9. Java Static Initializer Block
