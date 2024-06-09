@@ -33,3 +33,5 @@
 15. Java Instanceof keyword
 
 16. Java Iterator
+
+17. Java Singleton Pattern
