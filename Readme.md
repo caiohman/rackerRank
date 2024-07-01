@@ -35,3 +35,6 @@
 16. Java Iterator
 
 17. Java Singleton Pattern
+
+18. Java Strings Introduction
+
