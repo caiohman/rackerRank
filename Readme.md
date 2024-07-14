@@ -39,3 +39,7 @@
 18. Java Strings Introduction
 
 19. Java Substring Comparisons
+
+20. Java String Reverse
+
+21. Java Anagrams
