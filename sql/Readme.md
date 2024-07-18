@@ -23,3 +23,5 @@
 10. Weather Observation Station 6
 
 11. Weather Observation Station 7
+
+12. Weather Observation Station 8
