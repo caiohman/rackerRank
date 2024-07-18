@@ -9,6 +9,8 @@ where substring(s.city, 1, 1) = 'a' or substring(s.city, 1, 1) = 'A' or
  substring(s.city, 1, 1) = 'o' or substring(s.city, 1, 1) = 'O' or
  substring(s.city, 1, 1) = 'u' or substring(s.city, 1, 1) = 'U';
 
+-- Refactoring
+select distinct s.city from station s where regexp_like(s.city, '[aeiou]$', 'i');
 
 
 

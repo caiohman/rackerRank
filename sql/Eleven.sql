@@ -7,3 +7,6 @@ where substring(s.city, length(s.city)) = 'a' or substring(s.city, length(s.city
  substring(s.city, length(s.city)) = 'i' or substring(s.city, length(s.city)) = 'I' or
  substring(s.city, length(s.city)) = 'o' or substring(s.city, length(s.city)) = 'O' or
  substring(s.city, length(s.city)) = 'u' or substring(s.city, length(s.city)) = 'U';
+
+-- Refactoring
+ select distinct s.city from station s where regexp_like(s.city, '^[aeiou]', 'i');
