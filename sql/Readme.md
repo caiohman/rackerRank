@@ -19,3 +19,7 @@
 8. Weather Observation Station 4
 
 9. Weather Observation Station 5
+
+10. Weather Observation Station 6
+
+11. Weather Observation Station 7
