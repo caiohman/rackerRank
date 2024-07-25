@@ -45,3 +45,5 @@
 21. Java Anagrams
 
 22. Java String Tokens
+
+23. Pattern Syntax Checker
