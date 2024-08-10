@@ -4,4 +4,10 @@ create table if not exists station (
     state varchar(2),
     lat_n decimal(8,6),
     long_w decimal(9,6)
+);
+
+create table if not exists students  (
+    id decimal(3),
+    name varchar(40),
+    marks decimal(3)
 )
