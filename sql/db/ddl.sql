@@ -6,8 +6,15 @@ create table if not exists station (
     long_w decimal(9,6)
 );
 
-create table if not exists students  (
+create table if not exists students (
     id decimal(3),
     name varchar(40),
     marks decimal(3)
-)
+);
+
+create table if not exists employee (
+    employee_id decimal(5),
+    name varchar(40),
+    months decimal(5),
+    salary decimal(5)
+);
