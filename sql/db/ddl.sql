@@ -18,3 +18,9 @@ create table if not exists employee (
     months decimal(5),
     salary decimal(5)
 );
+
+create table if not exists triangles (
+    A integer,
+    B integer,
+    C integer
+);

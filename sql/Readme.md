@@ -33,3 +33,7 @@
 15. Weather Observation Station 11
 
 16. Higher Than 75 Marks
+
+...
+
+20. Type of Triangle
