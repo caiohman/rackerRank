@@ -3,3 +3,7 @@
 - Java
 
 - SQL
+
+- Python
+
+- C++
