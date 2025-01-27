@@ -1,5 +1,5 @@
 exec = exec_name
-main = Six
+main = One
 dir = src
 
 all: $(main).o
